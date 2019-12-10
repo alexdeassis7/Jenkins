@@ -6,7 +6,7 @@
 	<groupId>afip.gob.ar</groupId>
 	<artifactId>ProyectoMavenJenkins</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 
 	<name>ProyectoMavenJenkins</name>
 	<url>http://maven.apache.org</url>
